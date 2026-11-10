@@ -1,0 +1,1 @@
+-- Intentionally empty: initial superadmin creation is handled by DataInitializer.

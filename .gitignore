@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+
+# application uploads
+uploads/
+backend/uploads/
+
+# local runtime artifacts
+backend/target/
+frontend/node_modules/
+frontend/dist/
